@@ -1,3 +1,7 @@
+# Ignore all dotfiles except .gitignore
+.*
+!.gitignore
+
 # C++
 **/cmake-build*/
 **/build*/
